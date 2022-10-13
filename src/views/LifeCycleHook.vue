@@ -11,9 +11,6 @@
     <p>
       Commented lifeCycle (beforeUnmount) and (unmounted) because if we call this two function this running application will be unmount.
     </p>
-<h3>
-  created this test for master branch of git
-</h3>
    </div> 
 </template>
 
